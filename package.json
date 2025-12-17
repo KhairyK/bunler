@@ -1,0 +1,9 @@
+{
+  "name": "bunler",
+  "version": "1.0.0",
+  "bin": {
+    "bunler": "./bin/bunler.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}
